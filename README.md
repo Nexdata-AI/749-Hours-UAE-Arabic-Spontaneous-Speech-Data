@@ -3,7 +3,7 @@
 ## Description
 The 749 hour UAE Arabic Spontaneous Speech Data, the content covering multiple topics. All the speech audio was manually transcribed into text content; speaker identity, gender, and other attribution are also annotated. This dataset can be used for voiceprint recognition model training, corpus construction for machine translation, and algorithm research introduction
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1180?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1180?source=Github
 
 
 # Specifications
